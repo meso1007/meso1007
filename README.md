@@ -49,7 +49,36 @@ I'm **Shoya**, a web developer primarily building front-end applications with Re
   <img src="Assets/axios.svg" alt="Axios" width="50" height="50" style="background-color:#5A29FF; border-radius: 50%; padding: 5px;" />
 </div>
 
+## 🛠️ Expert in and frequently use:
+<div style="display: flex; gap: 2px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/react.png" alt="React.js" width="50" height="50" style="margin-right: 10px;" />
+  </div>
 
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/next.png" alt="Next.js" width="50" height="50" style="margin-right: 10px;" />
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/node.png" alt="Node.js" width="50" height="50" style="margin-right: 10px;" />
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/django.png" alt="Django" width="50" height="50" style="margin-right: 10px;" />
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/tailwind.png" alt="Tailwind CSS" width="50" height="50" style="margin-right: 10px;" />
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/mysql.png" alt="MySQL" width="50" height="50" style="margin-right: 10px;" />
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="Assets/aws.png" alt="AWS" width="50" height="50" style="margin-right: 10px;" />
+  </div>
+</div>
 
 ## About Me
 
