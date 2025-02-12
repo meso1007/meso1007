@@ -1,6 +1,6 @@
 # Hi there, Welcome to MyPage!👋
 
-I'm Shoya,a web developer currently focusing on frontend technologies such as React.js, Vue.js, and jQuery. I specialize in creating websites that blend design aesthetics with functionality, ensuring a seamless user experience.
+I'm Shoya, a web developer currently focusing on frontend technologies such as React.js, Vue.js, and jQuery. I specialize in creating websites that blend design aesthetics with functionality, ensuring a seamless user experience.
 
 ## Technologies & Tools 🛠️
 
@@ -12,6 +12,7 @@ I'm Shoya,a web developer currently focusing on frontend technologies such as Re
   <img src="Assets/html5.svg" alt="HTML5" width="50" height="50" style="background-color:#f06529; border-radius: 50%; padding: 5px;" />
   <img src="Assets/css3.svg" alt="CSS3" width="50" height="50" style="background-color:#264de4; border-radius: 50%; padding: 5px;" />
   <img src="Assets/javascript.svg" alt="JavaScript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
+    <img src="Assets/typescript.png" alt="typescript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
   <img src="Assets/swift.svg" alt="Swift" width="50" height="50" style="background-color:#f05138; border-radius: 50%; padding: 5px;" />
 </div>
 
@@ -26,8 +27,11 @@ I'm Shoya,a web developer currently focusing on frontend technologies such as Re
 ### Frameworks & Libraries
 
 <div>
-  <img src="Assets/react.svg" alt="React" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/react.svg" alt="React.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/next.png" alt="Next.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/node.png" alt="Node.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
   <img src="Assets/vuedotjs.svg" alt="Vue.js" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/django.png" alt="Django.py" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
   <img src="Assets/jquery.svg" alt="jQuery" width="50" height="50" style="background-color:#0769ad; border-radius: 50%; padding: 5px;" />
 </div>
 
