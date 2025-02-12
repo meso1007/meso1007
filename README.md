@@ -9,31 +9,44 @@ I'm Shoya, a web developer currently focusing on frontend technologies such as R
 ### Frontend
 
 <div>
-  <img src="Assets/html5.svg" alt="HTML5" width="50" height="50" style="background-color:#f06529; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/css3.svg" alt="CSS3" width="50" height="50" style="background-color:#264de4; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/javascript.svg" alt="JavaScript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/html5.png" alt="HTML5" width="50" height="50" style="background-color:#f06529; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/css3.png" alt="CSS3" width="50" height="50" style="background-color:#264de4; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/javascript.png" alt="JavaScript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
     <img src="Assets/typescript.png" alt="typescript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/swift.svg" alt="Swift" width="50" height="50" style="background-color:#f05138; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/swift.png" alt="Swift" width="50" height="50" style="background-color:#f05138; border-radius: 50%; padding: 5px;" />
 </div>
 
 ### Backend
 
 <div>
-  <img src="Assets/ruby.svg" alt="Ruby" width="50" height="50" style="background-color:#d91427; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/php.svg" alt="PHP" width="50" height="50" style="background-color:#6a5d99; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/python.svg" alt="Python" width="50" height="50" style="background-color:#306998; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/ruby.png" alt="Ruby" width="50" height="50" style="background-color:#d91427; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/php.png" alt="PHP" width="50" height="50" style="background-color:#6a5d99; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/python.png" alt="Python" width="50" height="50" style="background-color:#306998; border-radius: 50%; padding: 5px;" />
 </div>
 
 ### Frameworks & Libraries
 
 <div>
-  <img src="Assets/react.svg" alt="React.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/react.png" alt="React.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
   <img src="Assets/next.png" alt="Next.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
   <img src="Assets/node.png" alt="Node.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/vuedotjs.svg" alt="Vue.js" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/vue.png" alt="Vue.js" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
   <img src="Assets/django.png" alt="Django.py" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/jquery.svg" alt="jQuery" width="50" height="50" style="background-color:#0769ad; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/jquery.png" alt="jQuery" width="50" height="50" style="background-color:#0769ad; border-radius: 50%; padding: 5px;" />
 </div>
+
+### Tech Stack & Tools
+<div>
+  <img src="Assets/mysql.png" alt="MySQL" width="50" height="50" style="background-color:#00758F; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/neon.png" alt="NeonSQL" width="50" height="50" style="background-color:#336791; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/firebase.png" alt="Firebase" width="50" height="50" style="background-color:#FFCA28; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/docker.png" alt="Docker" width="50" height="50" style="background-color:#2496ED; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/aws.png" alt="AWS" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/vite.png" alt="Vite" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/git.png" alt="Git" width="50" height="50" style="background-color:#F05032; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/axios.svg" alt="Axios" width="50" height="50" style="background-color:#5A29FF; border-radius: 50%; padding: 5px;" />
+</div>
+
 
 ## About Me
 
