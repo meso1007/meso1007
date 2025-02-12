@@ -1,7 +1,6 @@
 # Hi there, Welcome to MyPage!👋
 
-I'm Shoya, a web developer currently focusing on frontend technologies such as React.js, Vue.js, and jQuery. I specialize in creating websites that blend design aesthetics with functionality, ensuring a seamless user experience.
-
+I'm **Shoya**, a web developer primarily building front-end applications with React.js. I focus on creating responsive, dynamic user interfaces that deliver seamless experiences. Currently, I’m dedicating time to learning and practicing a wide range of technologies and tools, including back-end frameworks like Node.js, Next.js, and Django, as well as exploring topics like web scraping and API integration to build scalable, data-driven solutions!
 ## Technologies & Tools 🛠️
 
 <div>
@@ -43,9 +42,13 @@ I'm Shoya, a web developer currently focusing on frontend technologies such as R
   <img src="Assets/docker.png" alt="Docker" width="50" height="50" style="background-color:#2496ED; border-radius: 50%; padding: 5px;" />
   <img src="Assets/aws.png" alt="AWS" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
   <img src="Assets/vite.png" alt="Vite" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/postman.png" alt="Postman" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/bootstrap.png" alt="Bootstrap" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/tailwind.png" alt="Tailwind" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
   <img src="Assets/git.png" alt="Git" width="50" height="50" style="background-color:#F05032; border-radius: 50%; padding: 5px;" />
   <img src="Assets/axios.svg" alt="Axios" width="50" height="50" style="background-color:#5A29FF; border-radius: 50%; padding: 5px;" />
 </div>
+
 
 
 ## About Me
@@ -54,7 +57,7 @@ I'm Shoya, a web developer currently focusing on frontend technologies such as R
 
 ### 🎓 Recently graduated and actively seeking new opportunities in **web development** and **product design**
 
-### 🎨 Passionate about creating **elegant**, **user-centric designs** and **intuitive interfaces** with a focus on frontend technologies
+### 🎨 Passionate about building scalable back-end systems, leveraging Next.js with Node.js and Django for web scraping, and crafting efficient, data-driven solutions
 
 ### 🎬 **Hobbies** include:
 
