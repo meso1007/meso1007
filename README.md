@@ -1,6 +1,20 @@
 # Hi there, Welcome to MyPage!👋
 
 I'm **Shoya**, a web developer primarily building front-end applications with React.js. I focus on creating responsive, dynamic user interfaces that deliver seamless experiences. Currently, I’m dedicating time to learning and practicing a wide range of technologies and tools, including back-end frameworks like Node.js, Next.js, and Django, as well as exploring topics like web scraping and API integration to build scalable, data-driven solutions!
+
+## 🛠️ Expert in and frequently use:
+
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
+  <img src="Assets/react.png" alt="React.js" width="50" height="50" />
+  <img src="Assets/next.png" alt="Next.js" width="50" height="50" />
+  <img src="Assets/node.png" alt="Node.js" width="50" height="50" />
+  <img src="Assets/django.png" alt="Django" width="50" height="50" />
+  <img src="Assets/tailwind.png" alt="Tailwind CSS" width="50" height="50" />
+  <img src="Assets/mysql.png" alt="MySQL" width="50" height="50" />
+  <img src="Assets/aws.png" alt="AWS" width="50" height="50" />
+</div>
+
+
 ## Technologies & Tools 🛠️
 
 <div>
@@ -47,37 +61,6 @@ I'm **Shoya**, a web developer primarily building front-end applications with Re
   <img src="Assets/tailwind.png" alt="Tailwind" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
   <img src="Assets/git.png" alt="Git" width="50" height="50" style="background-color:#F05032; border-radius: 50%; padding: 5px;" />
   <img src="Assets/axios.svg" alt="Axios" width="50" height="50" style="background-color:#5A29FF; border-radius: 50%; padding: 5px;" />
-</div>
-
-## 🛠️ Expert in and frequently use:
-<div style="display: flex; gap: 2px;">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/react.png" alt="React.js" width="50" height="50" style="margin-right: 10px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/next.png" alt="Next.js" width="50" height="50" style="margin-right: 10px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/node.png" alt="Node.js" width="50" height="50" style="margin-right: 10px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/django.png" alt="Django" width="50" height="50" style="margin-right: 10px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/tailwind.png" alt="Tailwind CSS" width="50" height="50" style="margin-right: 10px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/mysql.png" alt="MySQL" width="50" height="50" style="margin-right: 10px;" />
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="Assets/aws.png" alt="AWS" width="50" height="50" style="margin-right: 10px;" />
-  </div>
 </div>
 
 ## About Me
