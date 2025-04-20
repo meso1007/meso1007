@@ -7,13 +7,13 @@ I'm **Shoya**, a web developer primarily building front-end applications with Re
 <div style="display: flex; justify-content: flex-start; gap: 20px;">
   <img src="Assets/react.png" alt="React.js" width="50" height="50" />
   <img src="Assets/next.png" alt="Next.js" width="50" height="50" />
-  <img src="Assets/node.png" alt="Node.js" width="50" height="50" />
+  <img src="Assets/typescript.png" alt="typescript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
+<img src="Assets/node.png" alt="Node.js" width="50" height="50" />
   <img src="Assets/django.png" alt="Django" width="50" height="50" />
-  <img src="Assets/tailwind.png" alt="Tailwind CSS" width="50" height="50" />
-  <img src="Assets/mysql.png" alt="MySQL" width="50" height="50" />
-  <img src="Assets/aws.png" alt="AWS" width="50" height="50" />
+  <img src="Assets/tailwind.png" alt="Tailwind CSS" width="70" height="50" />
+  <img src="Assets/mysql.png" alt="MySQL" width="70" height="50" />
+  <img src="Assets/aws.png" alt="AWS" width="70" height="50" />
 </div>
-
 
 ## Technologies & Tools 🛠️
 
@@ -49,12 +49,12 @@ I'm **Shoya**, a web developer primarily building front-end applications with Re
 </div>
 
 ### Tech Stack & Tools
+
 <div>
-  <img src="Assets/mysql.png" alt="MySQL" width="50" height="50" style="background-color:#00758F; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/neon.png" alt="NeonSQL" width="50" height="50" style="background-color:#336791; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/mysql.png" alt="MySQL" width="70" height="50" style="background-color:#00758F; border-radius: 50%; padding: 5px;" />
   <img src="Assets/firebase.png" alt="Firebase" width="50" height="50" style="background-color:#FFCA28; border-radius: 50%; padding: 5px;" />
   <img src="Assets/docker.png" alt="Docker" width="50" height="50" style="background-color:#2496ED; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/aws.png" alt="AWS" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
+  <img src="Assets/aws.png" alt="AWS" width="70" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
   <img src="Assets/vite.png" alt="Vite" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
   <img src="Assets/postman.png" alt="Postman" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
   <img src="Assets/bootstrap.png" alt="Bootstrap" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
