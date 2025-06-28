@@ -1,89 +1,250 @@
-# Hi there, Welcome to MyPage!👋
-
-I'm **Shoya**, a web developer primarily building front-end applications with React.js. I focus on creating responsive, dynamic user interfaces that deliver seamless experiences. Currently, I’m dedicating time to learning and practicing a wide range of technologies and tools, including back-end frameworks like Node.js, Next.js, and Django, as well as exploring topics like web scraping and API integration to build scalable, data-driven solutions!
-
-## 🛠️ Expert in and frequently use:
-
-<div style="display: flex; justify-content: flex-start; gap: 20px;">
-  <img src="Assets/react.png" alt="React.js" width="50" height="50" />
-  <img src="Assets/next.png" alt="Next.js" width="50" height="50" />
-  <img src="Assets/typescript.png" alt="typescript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
-<img src="Assets/node.png" alt="Node.js" width="50" height="50" />
-  <img src="Assets/django.png" alt="Django" width="50" height="50" />
-  <img src="Assets/tailwind.png" alt="Tailwind CSS" width="70" height="50" />
-  <img src="Assets/mysql.png" alt="MySQL" width="70" height="50" />
-  <img src="Assets/aws.png" alt="AWS" width="70" height="50" />
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHOYA'S%20DIGITAL%20PROFILE&fontSize=40&fontColor=fff&animation=twinkling" />
 </div>
 
-## Technologies & Tools 🛠️
-
-<div>
-
-### Frontend
-
-<div>
-  <img src="Assets/html5.png" alt="HTML5" width="50" height="50" style="background-color:#f06529; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/css3.png" alt="CSS3" width="50" height="50" style="background-color:#264de4; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/javascript.png" alt="JavaScript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
-    <img src="Assets/typescript.png" alt="typescript" width="50" height="50" style="background-color:#f7e01d; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/swift.png" alt="Swift" width="50" height="50" style="background-color:#f05138; border-radius: 50%; padding: 5px;" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shoya!;🚀+Full-Stack+Developer;🔥+Always+Learning!" alt="Typing Animation" />
 </div>
 
-### Backend
 
-<div>
-  <img src="Assets/ruby.png" alt="Ruby" width="50" height="50" style="background-color:#d91427; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/php.png" alt="PHP" width="50" height="50" style="background-color:#6a5d99; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/python.png" alt="Python" width="50" height="50" style="background-color:#306998; border-radius: 50%; padding: 5px;" />
+## <div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <span style="font-size: 32px; font-weight: bold;">About Me</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </div>
 
-### Frameworks & Libraries
+<table align="center">
+<tr>
+<td width="50%">
 
-<div>
-  <img src="Assets/react.png" alt="React.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/next.png" alt="Next.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/node.png" alt="Node.js" width="50" height="50" style="background-color:#61dafb; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/vue.png" alt="Vue.js" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/django.png" alt="Django.py" width="50" height="50" style="background-color:#42b883; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/jquery.png" alt="jQuery" width="50" height="50" style="background-color:#0769ad; border-radius: 50%; padding: 5px;" />
+### 💫 **Developer Profile**
+```javascript
+const shoya = {
+    name: "Shoya Horiuchi",
+    location: "🗾 Fujisawa, Kanagawa, Japan",
+    education: "🎓 Tamwood College, Vancouver",
+    currentFocus: [
+        "🔥 React.js & Next.js",
+        "🐍 Django & Python",
+        "☁️ AWS & Cloud Computing",
+        "📊 Data-Driven Solutions"
+    ],
+    dailyLife: () => {
+        return "☕ Coffee → 💻 Code → 🚀 Deploy → Repeat";
+    }
+};
+
+console.log(`${shoya.name} is coding...`);
+```
+
+### 🎯 **Mission Statement**
+> Building tomorrow's digital experiences with cutting-edge technologies and creative solutions!
+
+</td>
+<td width="50%">
+
+### 🌟 **Skills Overview**
+```typescript
+interface SkillSet {
+    frontend: Technology[];
+    backend: Technology[];
+    cloud: Platform[];
+    passion: string[];
+}
+
+const myExpertise: SkillSet = {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Django", "Python", "PHP"],
+    cloud: ["AWS", "Firebase", "Docker"],
+    passion: [
+        "🎬 Movies & Storytelling",
+        "✏️ Digital Art & Design", 
+        "🌍 Cultural Exploration",
+        "🎸 Music Production"
+    ]
+};
+
+export default myExpertise;
+```
+
+### 📈 **Current Status**
+```bash
+$ git status
+On branch: career-growth
+Changes staged:
+  ✅ Mastering Full-Stack Development
+  ✅ Building Scalable Applications  
+  🔄 Exploring AI & Machine Learning
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## <div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+  <span style="font-size: 36px; font-weight: bold; margin: 0 10px;">Tech Arsenal</span>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
 </div>
 
-### Tech Stack & Tools
+### <div align="center">⚡ Primary Stack ⚡</div>
 
-<div>
-  <img src="Assets/mysql.png" alt="MySQL" width="70" height="50" style="background-color:#00758F; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/firebase.png" alt="Firebase" width="50" height="50" style="background-color:#FFCA28; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/docker.png" alt="Docker" width="50" height="50" style="background-color:#2496ED; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/aws.png" alt="AWS" width="70" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/vite.png" alt="Vite" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/postman.png" alt="Postman" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/bootstrap.png" alt="Bootstrap" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/tailwind.png" alt="Tailwind" width="50" height="50" style="background-color:#FF9900; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/git.png" alt="Git" width="50" height="50" style="background-color:#F05032; border-radius: 50%; padding: 5px;" />
-  <img src="Assets/axios.svg" alt="Axios" width="50" height="50" style="background-color:#5A29FF; border-radius: 50%; padding: 5px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,java,django,tailwind,docker,aws&theme=dark&perline=8" alt="Primary Stack" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meso1007&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## About Me
 
-### 🌍 Currently based in Fujisawa, Kanagawa, Japan🇯🇵
 
-### 🎓 Majored in **Web Development** at Tamwood College in Vancouver, Canada🇨🇦
+### <div align="center">🎨 Frontend Universe 🎨</div>
 
-### 🎨 Passionate about building scalable back-end systems, leveraging Next.js with Node.js and Django for web scraping, and crafting efficient, data-driven solutions
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,svelte,tailwind,bootstrap,sass,figma&theme=dark&perline=6" alt="Frontend Skills" />
+</p>
 
-### 🎬 **Hobbies** include:
+### <div align="center">⚙️ Backend & Infrastructure ⚙️</div>
 
-- Watching **Moveies** 🎥
-- **Drawing** and exploring new creative techniques ✏️
-- **Traveling abroad** to experience different cultures 🌍
-- Playing various **Musical Instruments** (Piano, Guitar, Drum) 🎸
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,django,express,php,ruby,mysql,postgresql,mongodb,firebase,aws,docker&theme=dark&perline=6" alt="Backend Skills" />
+</p>
 
-### 🚀 Aspiring to become a **unique, high-demand Web developer** with a strong market value. I thrive on **Multitasking** and have a keen interest in everything I do.
+### <div align="center">🔧 Development Tools 🔧</div>
 
-## Let's Connect
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,linux,bash&theme=dark&perline=5" alt="Tools" />
+</p>
 
-- [**LinkedIn**](https://www.linkedin.com/in/shoya-horiuchi-83b785278/) - Let's network and collaborate!
-- [**Portfolio**](http://99.79.63.2/) - Check out my latest projects and designs!
-- [**Instagram**](https://www.instagram.com/sh02__nmi/?next=%2F) - Follow me for updates and behind-the-scenes content! 📸
+---
 
-Feel free to reach out if you have any questions or just want to chat about **Tech** and **Design**! 🚀
+## <div align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+  GitHub Analytics Dashboard
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meso1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&custom_title=Shoya's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=meso1007&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meso1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=meso1007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
+</div>
+
+---
+## <div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    <span style="font-size: 32px; font-weight: bold;">Featured Projects & Repositories</span>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</div>
+
+<div align="center">
+  <a href="https://github.com/meso1007/NEXT-emoji-pathgame-webapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meso1007&repo=NEXT-emoji-pathgame-webapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="Emoji Path Game - Next.js Web App" />
+  </a>
+  <a href="https://github.com/meso1007/NEXT-QRcodeMessage-WebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meso1007&repo=NEXT-QRcodeMessage-WebApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="QR Code Message - Next.js Web App" />
+  </a>
+</div>
+
+---
+
+## <div style="margin-bottom: 20px;" align="center ">
+  <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50">
+      <span style="font-size: 32px; font-weight: bold; margin-bottom: 40px;">Connect & Collaborate</span>
+  <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shoya-horiuchi-83b785278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00D4FF&logoWidth=20" alt="LinkedIn" />
+  </a>
+  <a href="http://99.79.63.2/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722&color=00D4FF" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/sh02__nmi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=00D4FF" alt="Instagram" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=00D4FF" alt="Email" />
+  </a>
+</div>
+
+<div style="margin-bottom: 20px;" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=💬+Open+to+exciting+collaborations+and+opportunities!;🚀+Let's+build+something+amazing+together!;🌟+Always+ready+for+new+challenges!" alt="Contact Animation" />
+</div>
+
+---
+
+## <div style="margin-bottom: 20px;" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
+      <span style="font-size: 32px; font-weight: bold;">Developer Philosophy</span>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic%2C%20and%20every%20bug%20is%20a%20plot%20twist!&author=Shoya%20Horiuchi" alt="Philosophy Quote" />
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Vision
+```javascript
+const vision = "Creating digital experiences that inspire and empower users worldwide";
+```
+
+</td>
+<td width="33%" align="center">
+
+### 💪 Values
+```javascript
+const values = [
+  "Innovation",
+  "Quality", 
+  "Collaboration",
+  "Continuous Learning"
+];
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Goals
+```javascript
+const goals = {
+  2024: "Full-Stack Mastery",
+  2025: "AI Integration",
+  future: "Tech Leadership"
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>🌟 Fun Facts About Me</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&multiline=true&width=500&height=140&lines=🎬+Movie+buff+who+finds+inspiration+in+storytelling;✏️+Digital+artist+creating+pixel-perfect+designs;🌍+Culture+explorer+with+a+wandering+soul;🎸+Multi-instrumentalist+coding+to+the+rhythm!" alt="Fun Facts" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meso1007&label=Profile%20Views&color=00D4FF&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/meso1007?label=Followers&style=for-the-badge&color=00D4FF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=rocket&color=00D4FF" alt="Status" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="Footer Animation" />
+</div>
