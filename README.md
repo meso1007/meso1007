@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shoya!;🚀+Full-Stack+Developer;🔥+Always+Learning!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shoya!;🚀+Full-Stack+Developer;🔥+Always+Learning!" alt="Typing Animation" />
 </div>
 
 
-## <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <span style="font-size: 32px; font-weight: bold;">About Me</span>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+## <div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+  <h1 style="margin: 0 10px; display: inline;">About Me</h1>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
 </div>
 
 <table align="center">
@@ -85,7 +85,7 @@ Changes staged:
 
 ## <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-  <span style="font-size: 36px; font-weight: bold; margin: 0 10px;">Tech Arsenal</span>
+  <h1 style="margin: 0 10px; display: inline;">Tech Arsenal</h1>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
 </div>
 
@@ -121,26 +121,9 @@ Changes staged:
 
 ---
 
-## <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
-  GitHub Analytics Dashboard
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meso1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&custom_title=Shoya's%20GitHub%20Stats" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=meso1007&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meso1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=meso1007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
-</div>
-
----
-## <div align="center">
+## <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-    <span style="font-size: 32px; font-weight: bold;">Featured Projects & Repositories</span>
+  <h1 style="margin: 0 10px; display: inline;">Featured Projects & Repositories</h1>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </div>
 
@@ -155,9 +138,9 @@ Changes staged:
 
 ---
 
-## <div style="margin-bottom: 20px;" align="center ">
+## <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50">
-      <span style="font-size: 32px; font-weight: bold; margin-bottom: 40px;">Connect & Collaborate</span>
+  <h1 style="margin: 0 10px; display: inline;">Connect & Collaborate</h1>
   <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50">
 </div>
 
@@ -182,9 +165,9 @@ Changes staged:
 
 ---
 
-## <div style="margin-bottom: 20px;" align="center">
+## <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-      <span style="font-size: 32px; font-weight: bold;">Developer Philosophy</span>
+  <h1 style="margin: 0 10px; display: inline;">Developer Philosophy</h1>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
 </div>
 
