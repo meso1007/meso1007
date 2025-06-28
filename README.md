@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shoya!;🚀+Full-Stack+Developer;🔥+Always+Learning!" alt="Typing Animation" />
 </div>
 
+<table align="">
+  <tr>
+    <td style="padding-right: 10px;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"></td>
+    <td><h1>About Me</h1></td>
+    <td style="padding-left: 10px;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"></td>
+  </tr>
+</table>
 
-## <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-  <h1 style="margin: 0 10px; display: inline;">About Me</h1>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-</div>
-
-<table align="center">
-<tr>
+meso1007<tr>
 <td width="50%">
 
 ### 💫 **Developer Profile**
@@ -83,11 +83,13 @@ Changes staged:
 
 ---
 
-## <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-  <h1 style="margin: 0 10px; display: inline;">Tech Arsenal</h1>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-</div>
+<table align="">
+  <tr>
+    <td style="padding-right: 10px;"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"></td>
+    <td><h1>Tech Arsenal</h1></td>
+    <td style="padding-left: 10px;"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"></td>
+  </tr>
+</table>
 
 ### <div align="center">⚡ Primary Stack ⚡</div>
 
@@ -121,11 +123,13 @@ Changes staged:
 
 ---
 
-## <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <h1 style="margin: 0 10px; display: inline;">Featured Projects & Repositories</h1>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</div>
+<table align="">
+  <tr>
+    <td style="padding-right: 10px;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></td>
+    <td><h1>Featured Projects & Repositories</h1></td>
+    <td style="padding-left: 10px;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/meso1007/NEXT-emoji-pathgame-webapp">
@@ -138,11 +142,13 @@ Changes staged:
 
 ---
 
-## <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50">
-  <h1 style="margin: 0 10px; display: inline;">Connect & Collaborate</h1>
-  <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50">
-</div>
+<table align="">
+  <tr>
+    <td style="padding-right: 10px;"><img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50"></td>
+    <td><h1>Connect & Collaborate</h1></td>
+    <td style="padding-left: 10px;"><img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50"></td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shoya-horiuchi-83b785278/" target="_blank">
@@ -165,17 +171,19 @@ Changes staged:
 
 ---
 
-## <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-  <h1 style="margin: 0 10px; display: inline;">Developer Philosophy</h1>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-</div>
+<table align="">
+  <tr>
+    <td style="padding-right: 10px;"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"></td>
+    <td><h1>Developer Philosophy</h1></td>
+    <td style="padding-left: 10px;"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic%2C%20and%20every%20bug%20is%20a%20plot%20twist!&author=Shoya%20Horiuchi" alt="Philosophy Quote" />
 </div>
 
-<table align="center">
+<table align="">
 <tr>
 <td width="33%" align="center">
 
