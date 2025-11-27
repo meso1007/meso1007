@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=250&section=header&text=Shoya%20Horiuchi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=25" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=250&section=header&text=Shoya%20Horiuchi&fontSize=70&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=25" alt="Header" />
 </div>
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoya-horiuchi-83b785278/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://99.79.63.2/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.shoyahoriuchi.me/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh02__nmi/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoshoya2017@gmail.com)
 
 </div>
 
@@ -32,10 +32,10 @@ I am a passionate **Full-Stack Developer** based in **Fujisawa, Japan**, dedicat
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind&theme=dark&perline=11" alt="Frontend Skills" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=go,python,django,java,php,ruby&theme=dark&perline=9" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=go,python,django,php,ruby&theme=dark&perline=9" alt="Backend Skills" />
 
 ### Database & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,aws,docker,linux,nginx&theme=dark&perline=8" alt="Cloud Skills" />
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,nginx&theme=dark&perline=8" alt="Cloud Skills" />
 
 
 
@@ -111,5 +111,5 @@ I am a passionate **Full-Stack Developer** based in **Fujisawa, Japan**, dedicat
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=100&section=footer&animation=fadeIn" alt="Footer" />
 </div>
