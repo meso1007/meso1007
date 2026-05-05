@@ -48,10 +48,8 @@ I am a Full-Stack Developer striving to become a globally competitive profession
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meso1007/GITHUB-PROFILE/output/github-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
-  <img src="https://raw.githubusercontent.com/meso1007/GITHUB-PROFILE/output/github-snake.svg#gh-light-mode-only" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/meso1007/meso1007/output/github-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
 ## 04. SKILLS
 
 ### [ BACKEND ]
