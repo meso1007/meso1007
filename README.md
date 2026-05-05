@@ -42,14 +42,17 @@ I am a Full-Stack Developer striving to become a globally competitive profession
 
 ## 03. STATS
 
-<p align="center">
+<!-- it was under construction like posed by owner 503 -->
+<!-- We can add maybe later -->
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=meso1007&show_icons=true&hide_border=true&bg_color=00000000&title_color=a3e635&text_color=e2e8f0&icon_color=84cc16&ring_color=84cc16" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meso1007&layout=compact&hide_border=true&bg_color=00000000&title_color=a3e635&text_color=e2e8f0" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meso1007/meso1007/output/github-snake-dark.svg" alt="Contribution Snake" />
 </p>
+
 ## 04. SKILLS
 
 ### [ BACKEND ]
