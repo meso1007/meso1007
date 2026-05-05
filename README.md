@@ -1,115 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=250&section=header&text=Shoya%20Horiuchi&fontSize=70&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=25" alt="Header" />
+  <img
+    src="images/shoya-header.gif"
+    alt="Shoya Horiuchi - Full-Stack Developer"
+    width="100%"
+  />
 </div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoya-horiuchi-83b785278/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.shoyahoriuchi.me/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh02__nmi/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoshoya2017@gmail.com)
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1400&color=A3E635&center=true&vCenter=true&width=900&height=52&lines=%3E+BUILDING+SCALABLE+WEB+PRODUCTS;%3E+GO+%2F+TYPESCRIPT+%2F+NEXT.JS+%2F+CLOUD;%3E+DESIGN+X+ENGINEERING+MINDSET" alt="Typing Intro" />
+</p> -->
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-Fujisawa,_Japan-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Location" />
+  <img src="https://img.shields.io/badge/FOCUS-Scalable_Web_Products-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=meso1007&label=VIEWS&color=84cc16&style=flat" alt="Profile Views" />
+</p>
 
-<br />
-
-## 👨‍💻 About Me
-
-I am a passionate **Full-Stack Developer** based in **Fujisawa, Japan**, dedicated to building digital experiences that are both functional and visually inspiring. With a strong foundation in modern web technologies and a creative mindset, I transform complex problems into elegant solutions.
-
-*   🔭 I’m currently working on **Advanced Next.js Applications & AI Integration**.
-*   🌱 I’m currently learning **Machine Learning & Cloud Architecture**.
-*   🚀 I specialize in **Go, Next.js, TypeScript, Tailwind, and Python**.
-*   ⚡ Fun fact: **I'm a multi-instrumentalist and a movie buff!**
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind&theme=dark&perline=11" alt="Frontend Skills" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=go,python,django,php,ruby&theme=dark&perline=9" alt="Backend Skills" />
-
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,nginx&theme=dark&perline=8" alt="Cloud Skills" />
+<p align="center">
+  <a href="https://www.shoyahoriuchi.me/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-84cc16?style=flat&logo=codeforces&logoColor=0f172a" alt="Portfolio" />
+  </a>
+<a href="https://www.linkedin.com/in/shoya-horiuchi-83b785278/">
+  <img src="https://img.shields.io/badge/LINKEDIN-84cc16?style=flat&logo=undertale&logoColor=0f172a" alt="LinkedIn" />
+</a>
+  <a href="mailto:diegoshoya2017@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-84cc16?style=flat&logo=gmail&logoColor=0f172a" alt="Email" />
+  </a>
+</p>
 
 
+## 01. SYSTEM
 
-</div>
+I am a Full-Stack Developer striving to become a globally competitive professional. Fully proficient in English and Japanese, I thrive in international environments where communication is as vital as technical execution. I am a lifelong learner, dedicated to evolving my skills to meet global standards.
 
----
+## 02. ROUTE
 
-## 📊 GitHub Analytics
+- Type-Safe Velocity: Rapid, reliable development with **Go**, **Java**, and **TypeScript**.
+- Global Collaboration: Bilingual proficiency (EN/JP) for seamless team alignment.
+- Maintainable Design: Building clean, scalable architectures with a focus on DX.
+- OSS Ambition: Goal to create open-source tools used by developers worldwide.
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meso1007&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meso1007&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 03. STATS
 
-<br />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meso1007&show_icons=true&hide_border=true&bg_color=00000000&title_color=a3e635&text_color=e2e8f0&icon_color=84cc16&ring_color=84cc16" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meso1007&layout=compact&hide_border=true&bg_color=00000000&title_color=a3e635&text_color=e2e8f0" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meso1007&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meso1007/GITHUB-PROFILE/output/github-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/meso1007/GITHUB-PROFILE/output/github-snake.svg#gh-light-mode-only" alt="Contribution Snake" />
+</p>
 
----
+## 04. SKILLS
 
-## 🏆 Featured Projects
+### [ BACKEND ]
+<img src="https://skillicons.dev/icons?i=go,java,spring,python,django,postgres,redis&theme=dark" alt="Backend Skills" />
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/meso1007/Portfolio-Website-UnderTale">
-          <h3>Portfolio UnderTale Website</h3>
-        </a>
-        <p>Personal portfolio showcasing projects and skills with UnderTale theme.</p>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/meso1007/Tagoly">
-          <h3>Tagoly</h3>
-        </a>
-        <p>CLI tool for enforcing Conventional Commits. And also good practice for git commit messages.</p>
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/meso1007/NEXT-QRcodeMessage-WebApp">
-          <h3>QR Code Message</h3>
-        </a>
-        <p>Generate and share secret QR code messages.</p>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/meso1007/logic-latch">
-          <h3>LogicLatch AI</h3>
-        </a>
-        <p>AI-powered logic puzzle platform.</p>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
+**Core Languages:** Go, Java, Python
 
----
+### [ FRONTEND ]
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,tailwind&theme=dark" alt="Frontend Skills" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=100&section=footer&animation=fadeIn" alt="Footer" />
-</div>
+**Core Languages:** TypeScript, Next.js, Nuxt.js
+
+### [ INFRASTRUCTURE / ENVIRONMENT ]
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bun,vite,git&theme=dark" alt="Infra Skills" />
+
+**Core Tools:** Docker, AWS, Bun, Linux
+
+## 05. RULES
+
+- Prefer simple and testable designs over unnecessary complexity.
+- Optimize for long-term maintainability and team velocity.
+- Treat developer experience as part of product quality.
+
+
+## 06. CONTACT
+
+- Portfolio: [shoyahoriuchi.me](https://www.shoyahoriuchi.me/)
+- LinkedIn: [shoya horiuchi](https://www.linkedin.com/in/shoya-horiuchi-83b785278/)
+- Gmail: [Send Email](mailto:diegoshoya2017@gmail.com)
