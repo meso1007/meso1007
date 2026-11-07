@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-Fujisawa,_Japan-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Location" />
   <img src="https://img.shields.io/badge/FOCUS-Scalable_Web_Products-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Focus" />
+  <img src="https://img.shields.io/badge/OPEN_TO-WORK-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Open to work" />
   <img src="https://komarev.com/ghpvc/?username=meso1007&label=VIEWS&color=84cc16&style=flat" alt="Profile Views" />
 </p>
 
@@ -29,18 +30,26 @@
 </p>
 
 
-## 01. SYSTEM
+## 01. FEATURED PROJECTS
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**Tagoly**](https://github.com/meso1007/Tagoly) · [website](https://www.tagoly-lp.us/) | Git commit CLI with automatic scope detection, message linting, and a `commit-msg` hook. Ships prebuilt binaries via GoReleaser and installs with Homebrew / Scoop. | Go · GitHub Actions · GoReleaser |
+| [**Cartes**](https://github.com/meso1007/logic-latch) · [demo](https://cartes-three.vercel.app) | AI learning-roadmap generator that turns a goal into step-by-step lessons with interactive quizzes and progress tracking. | Next.js 16 · Go (Echo) · PostgreSQL / Supabase · Gemini API |
+| [**Durian-Map**](https://github.com/meso1007/Durian-Map) | Map for finding independent cafés, with chain-store filtering and photo proxying through the API. | Next.js 16 · Cloudflare Workers · Hono · Google Places API |
+
+## 02. SYSTEM
 
 I am a Full-Stack Developer striving to become a globally competitive professional. Fully proficient in English and Japanese, I thrive in international environments where communication is as vital as technical execution. I am a lifelong learner, dedicated to evolving my skills to meet global standards.
 
-## 02. ROUTE
+## 03. ROUTE
 
 - Type-Safe Velocity: Rapid, reliable development with **Go**, **Java**, and **TypeScript**.
 - Global Collaboration: Bilingual proficiency (EN/JP) for seamless team alignment.
 - Maintainable Design: Building clean, scalable architectures with a focus on DX.
 - OSS Ambition: Goal to create open-source tools used by developers worldwide.
 
-## 03. STATS
+## 04. STATS
 
 <!-- it was under construction like posed by owner 503 -->
 <!-- We can add maybe later -->
@@ -50,10 +59,14 @@ I am a Full-Stack Developer striving to become a globally competitive profession
 </p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meso1007/meso1007/output/github-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meso1007/meso1007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meso1007/meso1007/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/meso1007/meso1007/output/github-snake.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
-## 04. SKILLS
+## 05. SKILLS
 
 ### [ BACKEND ]
 <img src="https://skillicons.dev/icons?i=go,java,spring,python,django,postgres,redis&theme=dark" alt="Backend Skills" />
@@ -61,24 +74,25 @@ I am a Full-Stack Developer striving to become a globally competitive profession
 **Core Languages:** Go, Java, Python
 
 ### [ FRONTEND ]
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,tailwind&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,react,tailwind&theme=dark" alt="Frontend Skills" />
 
 **Core Languages:** TypeScript, Next.js, Nuxt.js
 
 ### [ INFRASTRUCTURE / ENVIRONMENT ]
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bun,vite,git&theme=dark" alt="Infra Skills" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,supabase,vercel,linux,bun,git,githubactions&theme=dark" alt="Infra Skills" />
 
-**Core Tools:** Docker, AWS, Bun, Linux
+**Core Tools:** Docker, AWS, Cloudflare Workers, Supabase, Vercel, Bun, Linux
 
-## 05. RULES
+## 06. RULES
 
 - Prefer simple and testable designs over unnecessary complexity.
 - Optimize for long-term maintainability and team velocity.
 - Treat developer experience as part of product quality.
 
 
-## 06. CONTACT
+## 07. CONTACT
 
 - Portfolio: [shoyahoriuchi.me](https://www.shoyahoriuchi.me/)
 - LinkedIn: [shoya horiuchi](https://www.linkedin.com/in/shoya-horiuchi-83b785278/)
+- GitHub: [@meso1007](https://github.com/meso1007)
 - Gmail: [Send Email](mailto:diegoshoya2017@gmail.com)
