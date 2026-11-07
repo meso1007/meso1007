@@ -44,12 +44,14 @@
 
 I am a Full-Stack Developer striving to become a globally competitive professional. Fully proficient in English and Japanese, I thrive in international environments where communication is as vital as technical execution. I am a lifelong learner, dedicated to evolving my skills to meet global standards.
 
-## 02. ROUTE
+## 02. AT WORK
 
-- Type-Safe Velocity: Rapid, reliable development with **Go**, **Java**, and **TypeScript**.
-- Global Collaboration: Bilingual proficiency (EN/JP) for seamless team alignment.
-- Maintainable Design: Building clean, scalable architectures with a focus on DX.
-- OSS Ambition: Goal to create open-source tools used by developers worldwide.
+I work on an in-house web service as a full-stack engineer, covering backend, frontend, infrastructure, and DevOps end to end.
+
+- **Backend** — APIs and business logic with Java / Spring Boot; schema design and tuning on Oracle and PostgreSQL; caching and asynchronous messaging with Redis and RabbitMQ.
+- **Frontend** — building interfaces in TypeScript and Vue.js.
+- **Infrastructure / DevOps** — containerized services on Docker / Kubernetes, plus CI/CD pipeline maintenance and releases.
+- **Ownership** — from requirements and design through implementation, review, and operation.
 
 ## 03. STATS
 
@@ -89,23 +91,7 @@ I am a Full-Stack Developer striving to become a globally competitive profession
 
 **Tools:** Docker, Kubernetes, AWS, Terraform, CI/CD, Linux
 
-## 05. AT WORK
-
-I work on an in-house web service as a full-stack engineer, covering backend, frontend, infrastructure, and DevOps end to end.
-
-- **Backend** — APIs and business logic with Java / Spring Boot; schema design and tuning on Oracle and PostgreSQL; caching and asynchronous messaging with Redis and RabbitMQ.
-- **Frontend** — building interfaces in TypeScript and Vue.js.
-- **Infrastructure / DevOps** — containerized services on Docker / Kubernetes, plus CI/CD pipeline maintenance and releases.
-- **Ownership** — from requirements and design through implementation, review, and operation.
-
-## 06. RULES
-
-- Prefer simple and testable designs over unnecessary complexity.
-- Optimize for long-term maintainability and team velocity.
-- Treat developer experience as part of product quality.
-
-
-## 07. CONTACT
+## 05. CONTACT
 
 - Portfolio: [shoyahoriuchi.me](https://www.shoyahoriuchi.me/)
 - LinkedIn: [shoya horiuchi](https://www.linkedin.com/in/shoya-horiuchi-83b785278/)
