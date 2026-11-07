@@ -71,28 +71,41 @@ I am a Full-Stack Developer striving to become a globally competitive profession
 ## 04. SKILLS
 
 ### [ BACKEND ]
-<img src="https://skillicons.dev/icons?i=go,java,spring,python,django,postgres,redis&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=go,java,spring,python,postgres,redis,rabbitmq&theme=dark" alt="Backend Skills" />
 
-**Core Languages:** Go, Java, Python
+**Languages:** Java / Spring Boot, Go, Python
+
+**Data & Messaging:** Oracle, PostgreSQL, Redis, RabbitMQ
 
 ### [ FRONTEND ]
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,tailwind&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,vue,tailwind&theme=dark" alt="Frontend Skills" />
 
-**Core Languages:** TypeScript, Next.js, Nuxt.js
+**Languages:** TypeScript, JavaScript
 
-### [ INFRASTRUCTURE / ENVIRONMENT ]
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bun,vite,git&theme=dark" alt="Infra Skills" />
+**Frameworks:** Next.js, Nuxt.js, Vue.js
 
-**Core Tools:** Docker, AWS, Bun, Linux
+### [ INFRASTRUCTURE / DEVOPS ]
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,linux,git,bun&theme=dark" alt="Infra Skills" />
 
-## 05. RULES
+**Tools:** Docker, Kubernetes, AWS, Terraform, CI/CD, Linux
+
+## 05. AT WORK
+
+I work on an in-house web service as a full-stack engineer, covering backend, frontend, infrastructure, and DevOps end to end.
+
+- **Backend** — APIs and business logic with Java / Spring Boot; schema design and tuning on Oracle and PostgreSQL; caching and asynchronous messaging with Redis and RabbitMQ.
+- **Frontend** — building interfaces in TypeScript and Vue.js.
+- **Infrastructure / DevOps** — containerized services on Docker / Kubernetes, plus CI/CD pipeline maintenance and releases.
+- **Ownership** — from requirements and design through implementation, review, and operation.
+
+## 06. RULES
 
 - Prefer simple and testable designs over unnecessary complexity.
 - Optimize for long-term maintainability and team velocity.
 - Treat developer experience as part of product quality.
 
 
-## 06. CONTACT
+## 07. CONTACT
 
 - Portfolio: [shoyahoriuchi.me](https://www.shoyahoriuchi.me/)
 - LinkedIn: [shoya horiuchi](https://www.linkedin.com/in/shoya-horiuchi-83b785278/)
