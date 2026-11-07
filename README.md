@@ -12,7 +12,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-Fujisawa,_Japan-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Location" />
-  <img src="https://img.shields.io/badge/FOCUS-Scalable_Web_Products-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Focus" />
+  <img src="https://img.shields.io/badge/ROLE-Full--Stack_Developer-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Role" />
+  <a href="https://github.com/meso1007/Tagoly"><img src="https://img.shields.io/badge/NOW-Building_Tagoly-0f172a?style=flat&labelColor=84cc16&color=0f172a" alt="Now building Tagoly" /></a>
   <img src="https://komarev.com/ghpvc/?username=meso1007&label=VIEWS&color=84cc16&style=flat" alt="Profile Views" />
 </p>
 
