@@ -31,9 +31,13 @@
 
 ## ✦ PROJECTS
 
-- 🌱 **[Tagoly](https://github.com/meso1007/Tagoly)** — Git commit CLI written in Go · [install](https://github.com/meso1007/Tagoly#installation) · [website](https://www.tagoly-lp.us/)
-- 💌 **[OTODOKE LIFE](https://next-qrcode-message-web-app.vercel.app)** — heartfelt messages delivered by QR code · [code](https://github.com/meso1007/NEXT-QRcodeMessage-WebApp)
-- 🎮 **[Portfolio Website](https://www.shoyahoriuchi.me/)** — an Undertale-style portfolio · [code](https://github.com/meso1007/Portfolio-Website-UnderTale)
+<p align="center">
+  <a href="https://github.com/meso1007/Tagoly"><img src="images/projects/tagoly.svg" width="252" alt="Tagoly — Git commit CLI written in Go" /></a>
+  &nbsp;
+  <a href="https://next-qrcode-message-web-app.vercel.app"><img src="images/projects/otodoke.svg" width="252" alt="OTODOKE LIFE — heartfelt messages delivered by QR code" /></a>
+  &nbsp;
+  <a href="https://www.shoyahoriuchi.me/"><img src="images/projects/portfolio.svg" width="252" alt="Portfolio Website — an Undertale-style portfolio" /></a>
+</p>
 
 ## 01. SYSTEM
 
