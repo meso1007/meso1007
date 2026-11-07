@@ -32,8 +32,8 @@
 ## ✦ PROJECTS
 
 - 🌱 **[Tagoly](https://github.com/meso1007/Tagoly)** — Git commit CLI written in Go · [install](https://github.com/meso1007/Tagoly#installation) · [website](https://www.tagoly-lp.us/)
-- 🧭 **[Cartes](https://github.com/meso1007/logic-latch)** — AI learning roadmap generator · [demo](https://cartes-three.vercel.app)
-- ☕ **[Durian-Map](https://github.com/meso1007/Durian-Map)** — a map for finding independent cafés
+- 💌 **[OTODOKE LIFE](https://next-qrcode-message-web-app.vercel.app)** — heartfelt messages delivered by QR code · [code](https://github.com/meso1007/NEXT-QRcodeMessage-WebApp)
+- 🎮 **[Portfolio Website](https://www.shoyahoriuchi.me/)** — an Undertale-style portfolio · [code](https://github.com/meso1007/Portfolio-Website-UnderTale)
 
 ## 01. SYSTEM
 
